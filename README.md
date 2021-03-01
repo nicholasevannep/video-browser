@@ -1,4 +1,6 @@
 # video-browser
+From udemy Vue JS Essentials 
+Section 3
 
 ## Project setup
 ```
